@@ -2,9 +2,7 @@
 The given program implements perceptron algorithm on a 2d space. <br />
 Steps to run : <br />
 1. cd perceptron <br />
-2. python generate_data.py <br />
-3. python perceptron.py <br />
-4. python test.py <br /><br />
+2. python test.py<br/>
 An easier implementation of perceptron can be seen in Logical Functions. <br />
 The Logical OR perceptron is an implementation of OR operation on binary digital data.<br />
 The points given are (0,0), (0,1), (1,0), (1,1) <br />
